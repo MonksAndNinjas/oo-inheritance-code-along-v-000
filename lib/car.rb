@@ -12,5 +12,9 @@ class Car
   def go
     'VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!'
   end
+
+  def fill_up_tank
+    "filliong up!"
+  end
   
 end
